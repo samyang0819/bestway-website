@@ -5,7 +5,6 @@ import { useRouter } from 'next/navigation'
 
 // Skip static generation for this page
 export const dynamic = 'force-dynamic'
-export const revalidate = 0
 
 export default function Home() {
   const router = useRouter()
