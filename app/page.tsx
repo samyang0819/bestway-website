@@ -16,6 +16,9 @@ import Newsletter from '@/components/Newsletter'
 import Contact from '@/components/Contact'
 import SchemaOrg from '@/components/SchemaOrg'
 
+// Skip static generation for this page due to component rendering complexity
+export const dynamic = 'force-dynamic'
+
 export default function Home() {
   return (
     <>
