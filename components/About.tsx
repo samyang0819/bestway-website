@@ -3,7 +3,6 @@
 import { motion } from 'framer-motion'
 import { useTranslations } from 'next-intl'
 import { Award, Globe, Target, Heart } from 'lucide-react'
-import Image from 'next/image'
 
 export default function About() {
   const t = useTranslations()
