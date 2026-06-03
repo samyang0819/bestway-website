@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { MessageCircle, Send, Phone, X, Clock, CheckCircle } from 'lucide-react'
+import { MessageCircle, Send, X, Clock, CheckCircle } from 'lucide-react'
 
 interface ChatMessage {
   id: string
