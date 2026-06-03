@@ -1,0 +1,360 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "canadaImmigration": "Canada Immigration",
+    "australiaImmigration": "Australia Immigration",
+    "privacy": "Privacy Policy"
+  },
+  "hero": {
+    "title": "Canada & Australia Immigration - Intense Expertise, For Your Success",
+    "subtitle": "Expert Guidance for Canada & Australia Immigration",
+    "description": "Bestway Consulting has provided professional immigration services for Canada and Australia since 2007. For over 18 years, we have helped individuals, couples, families, international students, skilled workers, and business owners successfully immigrate and settle abroad. Certified RCIC consultants and Registered Migration Agents specializing in Express Entry, Provincial Nominee Programs, skilled migration, family sponsorship, and comprehensive settlement support.",
+    "cta": "Book Consultation"
+  },
+  "services": {
+    "title": "Immigration & Professional Services",
+    "subtitle": "Full-service immigration consulting for Canada & Australia, plus legal, financial, and settlement support",
+    "canadaImmigration": "Canada Immigration - Express Entry, Provincial Nominee Programs, spousal sponsorship, work permits, and permanent residency pathways.",
+    "australiaImmigration": "Australia Immigration - Skilled migration, employer sponsorship, partner visas, and permanent residency programs.",
+    "education": "Education & Study Permits - Student visas, university/college selection, language training, and international education guidance.",
+    "workVisa": "Work Visas & Employment - Work permits, LMIA, employer sponsorship, skilled worker programs, and PGWP.",
+    "familySponsorship": "Family Sponsorship - Sponsor spouses, partners, family members, dependents, and parents.",
+    "legal": "Legal & Immigration Law - Immigration law, labor law, corporate law, family law, appeals, and procedural fairness.",
+    "financial": "Finance & Tax Consulting - Banking, investments, tax planning, financial services, and accounting support.",
+    "business": "Business & Settlement - Business establishment, entrepreneur programs, settlement services, and real estate guidance.",
+    "appeals": "Appeals & Case Management - Refusal assistance, appeals, case reviews, and reconsideration applications.",
+    "readMore": "Read more"
+  },
+  "about": {
+    "title": "About Bestway Consulting",
+    "description": "Since 2007, Bestway Consulting has provided expert immigration services for Canada and Australia. Led by Director Michelle Jeong-Ja Han (Regulated Canadian Immigration Consultant & Registered Migration Agent), we specialize in strategic immigration planning, skilled migration, family sponsorship, and comprehensive settlement support. Our dual accreditation in both Canada and Australia allows us to compare countries objectively and recommend the best pathway for your unique circumstances.",
+    "missionTitle": "Our Mission & Approach",
+    "missionDescription": "At Bestway Consulting, we understand that immigration is one of the most important decisions in a person's life. Our goal is to provide accurate advice, honest assessment, and personalized strategies tailored to each client's unique background and future goals. Our services extend beyond immigration applications—we also provide guidance in international education, settlement planning, financial services, taxation, accounting, real estate, and business establishment support.",
+    "coreValues": {
+      "title": "Our Core Values",
+      "honesty": {
+        "title": "Honesty",
+        "description": "We place our clients' interests first and provide realistic, transparent advice based on current immigration laws and policies. We do not encourage unnecessary applications or provide misleading expectations."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "We carefully manage each case from assessment to final outcome. Our team pays close attention to documentation, deadlines, procedural requirements, and policy updates to ensure applications are prepared accurately and professionally."
+      },
+      "professionalism": {
+        "title": "Professionalism",
+        "description": "Immigration laws and policies change frequently in both Canada and Australia. Our consultants continuously monitor government policy updates, processing trends, legislative changes, and immigration programme developments to provide up-to-date professional advice."
+      }
+    },
+    "leadership": {
+      "title": "Our Leadership",
+      "michelle": {
+        "name": "Michelle Jeong-Ja Han",
+        "title": "Director & Senior Immigration Consultant",
+        "credentials": [
+          "Registered Migration Agent (Australia) — Full Member of MARA (MARN: 0963835)",
+          "Regulated Canadian Immigration Consultant (RCIC) — Canada",
+          "Graduate Certificate in Australian Immigration Law and Practice — Victoria University, Australia",
+          "Certificate in Canadian Immigration Consulting with Honours — Humber College, Canada",
+          "Bachelor of Arts (English Literature & Language) — Korea University"
+        ],
+        "description": "Michelle Han holds dual professional immigration qualifications in both Australia and Canada. This rare dual accreditation allows her to assess and compare immigration opportunities for both countries simultaneously and recommend the most suitable pathway based on each client's education, work experience, occupation, family situation, and long-term goals. Having personally experienced immigration and settlement in Canada, Australia, and the United States, Michelle understands the practical and emotional aspects of the immigration journey. She is known for her professional, detail-oriented, and highly organized approach to immigration case management."
+      }
+    },
+    "whyChoose": {
+      "title": "Why Choose Bestway Consulting?",
+      "description": "Immigration laws and visa programmes are becoming increasingly complex. Canada and Australia regularly revise occupation lists, skilled migration requirements, partner visa policies, student visa regulations, employer-sponsored visa programmes, and business migration pathways.",
+      "points": [
+        "Accurate eligibility assessment",
+        "Strategic immigration planning",
+        "Professional document preparation",
+        "Ongoing case management",
+        "Clear explanation of risks and options",
+        "Honest guidance based on current policy trends",
+        "Dual licensing in Canada and Australia",
+        "18+ years of proven experience"
+      ]
+    }
+  },
+  "canada": {
+    "title": "Canada Immigration Pathways",
+    "description": "Navigate Canada's complex immigration system with expert guidance on Express Entry, Provincial Nominee Programs, family sponsorship, work permits, and citizenship.",
+    "expressEntry": {
+      "title": "Express Entry System",
+      "description": "Canada's primary electronic system for managing federal economic immigration applications. The system manages applications for Federal Skilled Worker Program (FSWP), Canadian Experience Class (CEC), and Federal Skilled Trades Program (FSTP).",
+      "crs": "Comprehensive Ranking System (CRS)",
+      "crsDescription": "CRS points are awarded based on age, education, language proficiency, skilled work experience, Canadian work experience, spouse/partner factors, and adaptability.",
+      "priorityCategories": [
+        "Healthcare occupations",
+        "STEM occupations",
+        "Skilled trades",
+        "Transport occupations",
+        "Agriculture and agri-food occupations",
+        "French-language proficiency"
+      ]
+    },
+    "spousalSponsorship": {
+      "title": "Canada Spousal & Partner Sponsorship",
+      "description": "Canadian citizens and permanent residents may sponsor their spouse or partner for Canadian permanent residence. This remains one of the most common and successful immigration pathways to Canada.",
+      "eligiblePartners": [
+        "Spouse: Legally married husband or wife",
+        "Common-Law Partner: Lived together continuously for at least 12 months",
+        "Conjugal Partner: Genuine long-term relationship with exceptional circumstances"
+      ]
+    },
+    "workPermits": {
+      "title": "Work Permits",
+      "description": "Canada offers various temporary work permit pathways including LMIA-based and LMIA-exempt options."
+    },
+    "citizenship": {
+      "title": "Canadian Citizenship",
+      "description": "Permanent residents may apply for Canadian citizenship after meeting eligibility requirements including physical presence of 1,095 days within the last 5 years.",
+      "benefits": [
+        "Voting rights",
+        "Canadian passport",
+        "Global mobility advantages",
+        "Access to social and economic benefits"
+      ]
+    }
+  },
+  "australia": {
+    "title": "Australia Immigration Pathways",
+    "description": "Explore Australia's skilled migration programs, employer sponsorship, partner visas, and permanent residency pathways with expert guidance.",
+    "skilledMigration": {
+      "title": "General Skilled Migration (GSM)",
+      "description": "Australia's skilled migration programme targets qualified workers whose occupations are in demand.",
+      "mainVisas": [
+        "Subclass 189 — Skilled Independent Visa",
+        "Subclass 190 — Skilled Nominated Visa",
+        "Subclass 491 — Skilled Work Regional Visa"
+      ]
+    },
+    "employerSponsorship": {
+      "title": "Employer-Sponsored Migration",
+      "description": "The Skills in Demand (SID) visa allows Australian employers to sponsor overseas skilled workers.",
+      "streams": [
+        "Specialist Skills Stream",
+        "Core Skills Stream",
+        "Labour Agreement Stream"
+      ]
+    },
+    "partnerVisa": {
+      "title": "Australia Partner Visa",
+      "description": "Australia's Partner Visa programme allows the spouse or de facto partner of an Australian citizen, permanent resident, or eligible New Zealand citizen to obtain permanent residence.",
+      "types": [
+        "Subclass 820/801 — Onshore Partner Visa",
+        "Subclass 309/100 — Offshore Partner Visa",
+        "Subclass 300 — Prospective Marriage Visa"
+      ]
+    },
+    "parentVisa": {
+      "title": "Australia Parent Visa",
+      "description": "Australia offers contributory parent visa programmes for eligible parents of Australian citizens or permanent residents."
+    }
+  },
+  "contactInfo": {
+    "title": "Contact Information",
+    "vancouver": {
+      "city": "Vancouver",
+      "country": "Canada",
+      "address": "#200-20641 Logan Ave, Langley, BC V3A 7R3",
+      "phone": "+1-604-512-6837",
+      "email": "info@bestwayconsulting.com"
+    },
+    "sydney": {
+      "city": "Sydney",
+      "country": "Australia",
+      "address": "Sydney, NSW Australia",
+      "email": "info@bestwayconsulting.com"
+    },
+    "businessHours": {
+      "weekdays": "Monday – Friday, 9:00 AM – 6:00 PM",
+      "weekend": "Weekend consultations available by appointment"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's start your immigration journey",
+    "name": "Full Name",
+    "email": "Email Address",
+    "message": "Your Message",
+    "send": "Send Message",
+    "phone": "Vancouver: +1-604-512-6837",
+    "whatsapp": "WhatsApp: +1-604-512-6837",
+    "kakaotalk": "KakaoTalk: bestwaycanada",
+    "email_address": "Email: info@bestwayconsulting.com",
+    "inquiries": {
+      "title": "Online Enquiry",
+      "description": "Contact us through our website enquiry form for:",
+      "options": [
+        "Immigration assessment",
+        "Partner visa consultation",
+        "Skilled migration consultation",
+        "Student visa consultation",
+        "Employer-sponsored visa consultation",
+        "Business migration consultation"
+      ],
+      "responseTime": "We respond to all enquiries within 2 business days."
+    }
+  },
+  "footer": {
+    "about": "About Us",
+    "services": "Services",
+    "navigation": "Navigation",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "back": "Back to Home"
+  },
+  "blog": {
+    "title": "Immigration Insights & Updates",
+    "subtitle": "Stay informed with the latest news, policy changes, and expert guidance on Canada and Australia immigration processes.",
+    "readMore": "Read More",
+    "cta": "Want personalized guidance for your immigration journey?",
+    "ctaButton": "Schedule Consultation",
+    "articles": [
+      {
+        "id": 1,
+        "slug": "ontario-oinp-express-entry-updates",
+        "title": "Ontario OINP Express Entry Skilled Trades Stream - Important Updates",
+        "category": "Canada Immigration",
+        "excerpt": "Recent changes to the Ontario Immigrant Nominee Program (OINP) Express Entry Skilled Trades stream have been implemented."
+      },
+      {
+        "id": 2,
+        "slug": "alberta-aaip-rural-renewal-2026",
+        "title": "Alberta AAIP Rural Renewal Stream - 2026 Changes",
+        "category": "Province Sponsorship",
+        "excerpt": "The Alberta Immigrant Nominee Program (AAIP) is implementing new regulations effective January 1, 2026."
+      },
+      {
+        "id": 3,
+        "slug": "canada-work-permit-vs-student-permit",
+        "title": "Canada Work Permit vs Student Permit - What You Need to Know",
+        "category": "Visa Types",
+        "excerpt": "Understanding the differences between work permits and study permits is crucial for your immigration journey."
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "⭐ Client Testimonials",
+    "title": "Success Stories",
+    "testimonials": [
+      {
+        "name": "Sarah Johnson",
+        "role": "Visa Applicant",
+        "text": "BestWay Consulting made my visa application process smooth and stress-free. Their expertise and attention to detail was exceptional. Highly recommended!"
+      },
+      {
+        "name": "Michael Chen",
+        "role": "Family Immigration Client",
+        "text": "After months of confusion, BestWay Consulting helped reunite my family. Their professional guidance was invaluable throughout the entire process."
+      },
+      {
+        "name": "Emma Rodriguez",
+        "role": "Citizenship Applicant",
+        "text": "The team at BestWay Consulting is incredibly knowledgeable and supportive. They answered all my questions and made me feel confident about my application."
+      },
+      {
+        "name": "David Park",
+        "role": "Employment Immigration",
+        "text": "BestWay Consulting navigated my work permit application with precision. Their strategic approach saved me time and money. Outstanding service!"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How long does the immigration process typically take?",
+        "answer": "Processing times vary by program. Express Entry typically takes 6 months, while family sponsorship takes 12-24 months. Provincial Nominee Programs take 3-8 months. We provide updated timelines during your consultation."
+      },
+      {
+        "question": "What are the main requirements for Canadian Express Entry?",
+        "answer": "You need a CRS score of 490+, valid work experience (1+ years), language test results (CLB 7+), and educational credentials assessment. Age 25-32 provides maximum points. Our team helps you optimize your profile."
+      },
+      {
+        "question": "Can I apply for Australian immigration with a non-skilled job?",
+        "answer": "Australian skilled migration requires your occupation on the skilled list. However, you may be eligible for employer-sponsored or state-nominated programs. We can assess all your options."
+      },
+      {
+        "question": "How much does immigration consulting cost?",
+        "answer": "Fees vary based on services needed. We offer free initial consultations to assess your case. Detailed pricing is provided after evaluation. We only charge for services we can actually help with."
+      },
+      {
+        "question": "What documents do I need for family sponsorship?",
+        "answer": "Required documents include passport copies, birth/marriage certificates, police certificates, medical exams, proof of relationship, and financial documents. We provide a complete checklist customized to your situation."
+      },
+      {
+        "question": "Is it guaranteed that my application will be approved?",
+        "answer": "We cannot guarantee approval, but we maximize your chances through expert strategy and document preparation. Our success rate is high due to thorough case assessment and application optimization."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Choose the service package that fits your needs",
+    "tiers": [
+      {
+        "name": "Consultation",
+        "price": "FREE",
+        "description": "Initial Assessment",
+        "features": [
+          "Free 30-minute consultation",
+          "Immigration profile assessment",
+          "Program eligibility review",
+          "Personalized recommendations",
+          "No obligation to proceed"
+        ]
+      },
+      {
+        "name": "Express Entry",
+        "price": "$1,299",
+        "description": "Complete Package",
+        "features": [
+          "Full Express Entry profile optimization",
+          "Document preparation & review",
+          "CRS score maximization strategy",
+          "Application submission",
+          "6-month support after submission",
+          "Email support included"
+        ]
+      },
+      {
+        "name": "Family Sponsorship",
+        "price": "$1,599",
+        "description": "Complete Package",
+        "features": [
+          "Eligibility assessment",
+          "Complete documentation support",
+          "Application preparation",
+          "Government submission",
+          "12-month support during processing",
+          "Priority email support"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$2,499",
+        "description": "All-Inclusive",
+        "features": [
+          "Comprehensive case evaluation",
+          "Multi-program strategy planning",
+          "Full document preparation",
+          "Immigration attorney consultation",
+          "Unlimited support during process",
+          "24/7 priority support"
+        ]
+      }
+    ]
+  }
+}

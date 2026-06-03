@@ -1,0 +1,24 @@
+# BestWay Consulting - robots.txt
+# Generated for SEO optimization
+
+User-agent: *
+Allow: /
+Allow: *.js
+Allow: *.css
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.gif
+Allow: *.svg
+Allow: *.webp
+
+Disallow: /api/
+Disallow: /_next/
+Disallow: /.next/
+Disallow: /node_modules/
+
+# Specific crawl delays
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://bestwayconsulting.com/sitemap.xml
