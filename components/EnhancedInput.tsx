@@ -2,7 +2,6 @@
 
 import { motion } from 'framer-motion';
 import { Mail, Phone, MapPin, AlertCircle, CheckCircle } from 'lucide-react';
-import { ReactNode } from 'react';
 
 interface EnhancedInputProps {
   type?: 'text' | 'email' | 'tel' | 'textarea';
