@@ -8,14 +8,14 @@ interface ContactFormData {
   message: string
 }
 
-// Initialize Resend
-const resend = new Resend(process.env.RESEND_API_KEY)
-
 // In-memory storage for demo (replace with database in production)
 const submissions: ContactFormData[] = []
 
 export async function POST(request: NextRequest) {
   try {
+    // Initialize Resend with API key
+    const resend = new Resend(process.env.RESEND_API_KEY)
+
     const body: ContactFormData = await request.json()
 
     // Validation
