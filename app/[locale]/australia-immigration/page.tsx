@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import Link from 'next/link'
-import { ArrowRight, CheckCircle, Users, Briefcase, Heart, Globe } from 'lucide-react'
+
 
 export default function AustraliaImmigrationPage() {
   const fadeInUp = {
