@@ -26,8 +26,7 @@ export default function Skeleton({
 
   const skeletonVariants = {
     initial: { opacity: 0 },
-    animate: { opacity: 1 },
-    transition: { duration: 0.3 },
+    animate: { opacity: 1, transition: { duration: 0.3 } },
   };
 
   if (variant === 'text') {
