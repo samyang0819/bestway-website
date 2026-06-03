@@ -47,9 +47,6 @@ export default function EnhancedInput({
     exit: { opacity: 0, y: -10 },
   };
 
-  const isTextarea = type === 'textarea';
-  const InputComponent = isTextarea ? 'textarea' : 'input';
-
   return (
     <motion.div
       initial={{ opacity: 0, y: 10 }}
