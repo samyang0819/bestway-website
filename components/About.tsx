@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { useTranslations } from 'next-intl'
-import { Award, Users, Globe, Target, Heart } from 'lucide-react'
+import { Award, Globe, Target, Heart } from 'lucide-react'
 import Image from 'next/image'
 
 export default function About() {

@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import Link from 'next/link'
-import { ArrowRight, CheckCircle, Users, Briefcase, Heart, GraduationCap } from 'lucide-react'
+import { ArrowRight, CheckCircle, Briefcase, Heart } from 'lucide-react'
 
 export default function CanadaImmigrationPage() {
   const fadeInUp = {

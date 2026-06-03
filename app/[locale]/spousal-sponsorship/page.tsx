@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import Link from 'next/link'
-import { CheckCircle, Heart, AlertCircle, ArrowRight } from 'lucide-react'
+import { CheckCircle, Heart, ArrowRight } from 'lucide-react'
 
 export default function SpousalSponsorshipPage() {
   const fadeInUp = {
