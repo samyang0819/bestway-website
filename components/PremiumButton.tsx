@@ -82,7 +82,6 @@ export default function PremiumButton({
         href={href}
         className={`${baseClasses} ${className} ${disabled ? 'opacity-50 cursor-not-allowed' : ''}`}
         whileHover={disabled ? {} : { y: -4 }}
-        disabled={disabled}
       >
         {buttonContent}
       </motion.a>
