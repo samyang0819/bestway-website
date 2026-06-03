@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { ArrowRight, ArrowLeft, CheckCircle, Phone, Mail, MapPin, MessageSquare } from 'lucide-react'
+import { ArrowRight, ArrowLeft, CheckCircle, Mail, MapPin, MessageSquare } from 'lucide-react'
 import EnhancedInput from './EnhancedInput'
 
 interface FormData {
