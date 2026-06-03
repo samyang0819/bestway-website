@@ -1,5 +1,5 @@
 import { ReactNode } from 'react';
-import { Metadata } from 'next';
+import { Metadata, Viewport } from 'next';
 import './globals.css';
 import LiveChatWidget from '@/components/LiveChatWidget';
 import FloatingActionButton from '@/components/FloatingActionButton';
@@ -50,12 +50,6 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  viewport: {
-    width: 'device-width',
-    initialScale: 1,
-    maximumScale: 5,
-    userScalable: true,
-  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -103,6 +97,13 @@ export const metadata: Metadata = {
   verification: {
     google: 'YOUR_GOOGLE_VERIFICATION_CODE',
   },
+};
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  userScalable: true,
 };
 
 export default function RootLayout({ children }: RootLayoutProps) {
