@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import Link from 'next/link'
-import { Award, CheckCircle, Users, Globe, Briefcase, Star } from 'lucide-react'
+import { Award, Users, Globe, Briefcase, Star } from 'lucide-react'
 
 export default function ManagementProfilePage() {
   const fadeInUp = {
@@ -45,7 +45,7 @@ export default function ManagementProfilePage() {
           <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }} className="text-center">
             <span className="inline-block px-4 py-2 bg-purple-100 border border-purple-300 rounded-full text-purple-700 text-sm font-bold mb-6">👤 Meet Your Immigration Expert</span>
             <h1 className="text-5xl md:text-7xl font-black mb-6"><span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">Michelle Jeong-Ja Han</span></h1>
-            <p className="text-xl text-slate-600 max-w-3xl mx-auto">Director & Senior Immigration Consultant | Dual-Accredited RCIC & Registered Migration Agent</p>
+            <p className="text-xl text-slate-600 max-w-3xl mx-auto">Director & Senior Immigration Consultant | Dual-Accredited RCIC & Registered Migr    ation Agent</p>
           </motion.div>
         </div>
       </section>
@@ -124,7 +124,7 @@ export default function ManagementProfilePage() {
 
       <section className="py-20 px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-slate-900 mb-6">Ready to Work With Michelle?</h2>
+          <h2 className="text-4xl font-bold text-slate-900 mb-6">Re ady to Work With Michelle?</h2>
           <p className="text-lg text-slate-600 mb-8">Schedule your consultation with Canada and Australia's dual-accredited immigration expert</p>
           <Link href="#contact">
             <button className="px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold rounded-lg hover:shadow-lg transition-all">
